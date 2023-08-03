@@ -1,0 +1,19 @@
+1. Crie um programa que declare um vetor de strings para armazenar os nomes de 5 planetas do Sistema Solar. Em seguida, exiba os nomes dos planetas em ordem alfabética.
+
+2. Escreva um programa que declare um vetor de inteiros para armazenar a distância média de cada planeta do Sistema Solar ao Sol (em milhões de km). Em seguida, exiba o planeta mais próximo e o planeta mais distante do Sol.
+
+3. Faça um programa que leia um vetor de 6 números reais representando a magnitude aparente de estrelas em um determinado sistema estelar. Em seguida, exiba a magnitude média das estrelas.
+
+4. Crie um programa que declare um vetor de inteiros para armazenar a temperatura média de 5 planetas do Sistema Solar (em graus Celsius). Preencha-o com valores digitados pelo usuário e, em seguida, exiba a temperatura média dos planetas.
+
+5. Escreva um programa que declare um vetor de inteiros representando a massa (em massa terrestre) de 8 planetas anões. Em seguida, calcule e exiba a massa total desses planetas anões.
+
+6. Faça um programa que declare um vetor de floats com 7 elementos representando a massa (em massa solar) de estrelas em um aglomerado estelar. Verifique quantas estrelas têm massa superior a 3 vezes a massa do Sol.
+
+7. Crie um programa que declare um vetor de strings para armazenar o nome de 5 constelações. Em seguida, verifique se uma constelação específica digitada pelo usuário está presente no vetor e informe o resultado.
+
+8. Escreva um programa que declare um vetor de inteiros para armazenar a velocidade de rotação (em km/h) de 6 planetas do Sistema Solar. Preencha-o com valores digitados pelo usuário e, em seguida, exiba a média das velocidades de rotação.
+
+9. Faça um programa que declare um vetor de floats representando a luminosidade (em unidades solares) de 10 estrelas. Em seguida, verifique quantas estrelas têm luminosidade superior a 100 vezes a luminosidade do Sol.
+
+10. Crie um programa que declare um vetor de strings para armazenar o nome de 7 luas do Sistema Solar. Em seguida, exiba os nomes das luas em ordem inversa.

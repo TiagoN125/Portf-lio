@@ -1,0 +1,19 @@
+1. Crie um programa que declare um vetor de strings para armazenar o nome de 5 países que já venceram a Copa do Mundo Feminina. Em seguida, exiba os nomes dos países em ordem alfabética.
+
+2. Escreva um programa que declare um vetor de inteiros para armazenar a quantidade de títulos de 8 países na Copa do Mundo Feminina. Em seguida, exiba o nome dos países que nunca venceram o torneio (países com 0 títulos).
+
+3. Faça um programa que leia um vetor de 10 números inteiros representando as idades das jogadoras de uma seleção de futebol feminino. Em seguida, exiba a média das idades.
+
+4. Crie um programa que declare um vetor de 6 elementos do tipo float para armazenar as alturas (em metros) de jogadoras de uma seleção. Preencha-o com valores digitados pelo usuário e, em seguida, exiba a maior e a menor altura presente no vetor.
+
+5. Escreva um programa que declare um vetor de 7 caracteres para representar a sigla dos países que sediaram a Copa do Mundo Feminina. Verifique se uma sigla específica digitada pelo usuário está presente no vetor e informe o resultado.
+
+6. Faça um programa que declare um vetor de 5 elementos inteiros representando o número de gols marcados por uma seleção em cada partida de uma edição da Copa do Mundo Feminina. Calcule e exiba o total de gols marcados por essa seleção.
+
+7. Crie um programa que declare dois vetores de 5 elementos cada, todos inteiros, representando os gols marcados e os gols sofridos por uma seleção em cinco partidas de uma edição da Copa do Mundo Feminina. Calcule e exiba o saldo de gols dessa seleção (gols marcados - gols sofridos) em cada partida.
+
+8. Escreva um programa que declare um vetor de 6 números inteiros para representar as datas (dia) em que ocorreram os jogos de uma fase da Copa do Mundo Feminina. Em seguida, inverta a ordem das datas no vetor e exiba o vetor resultante.
+
+9. Crie um programa que declare um vetor de 8 elementos do tipo string para armazenar o nome das seleções que participaram de uma edição da Copa do Mundo Feminina. Preencha-o com valores digitados pelo usuário e, em seguida, exiba os nomes das seleções em ordem inversa.
+
+10. Faça um programa que declare um vetor de 10 elementos inteiros representando o número de espectadores presentes em cada jogo de uma edição da Copa do Mundo Feminina. Exiba o número de jogos em que o público foi superior a 50.000 espectadores.
