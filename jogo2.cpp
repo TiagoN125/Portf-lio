@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //Grupo 2 - Maxwell Ferreira, João Carlos, Vitor Botelho, Vitor Lucas, Fabio Ribeiro, Tiago Nunes e Danilo Medina
 #include <string>
 #include <vector>
 #include <random>
